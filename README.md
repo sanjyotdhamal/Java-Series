@@ -1,19 +1,44 @@
-Java Project
+# Java Series - Apna College
 
-This workspace has a Maven project configured to use the existing `src/` directory as the source root.
+A collection of Java programs and practice exercises based on the Apna College Java course.
 
-Build:
+## Topics Covered So Far
 
-```bash
-mvn -q -DskipTests=true package
+- Java Basics
+- Variables & Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions & Methods
+- Basic Pattern Problems
+
+## Current Progress
+
+✅ Completed: Lecture 1 - Lecture 3
+
+🚀 More lectures and practice problems will be added as I continue learning Java.
+
+## Project Structure
+
+```text
+src/
+└── com/
+    └── BasicJava/
+        ├── Lec1
+        ├── Lec2
+        └── Lec3
 ```
 
-Run (replace main class if needed):
+## Tech Stack
 
-```bash
-mvn -q exec:java -Dexec.mainClass="com.javabasic.FirstCode"
-```
+- Java
+- Maven
+- VS Code
 
-Notes:
-- The `pom.xml` sets `<sourceDirectory>` to `src/` so existing source layout is used.
-- If your main class is different, change the `-Dexec.mainClass` value above or update `pom.xml`.
+## About
+
+This repository is maintained as part of my Java learning journey using the Apna College Java course. Code is organized lecture-wise for easy reference and revision.
+
+## Author
+
+**Sanjyot Dhamal**
