@@ -2,19 +2,24 @@
 
 A collection of Java programs and practice exercises based on the Apna College Java course.
 
-## Topics Covered So Far
+## 🎯 Topics Covered
 
-- Java Basics
-- Variables & Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Functions & Methods
-- Basic Pattern Problems
+- ✅ Java Basics
+- ✅ Variables & Data Types
+- ✅ Operators
+- ✅ Conditional Statements
+- ✅ Loops
+- ✅ Functions & Methods
+- ✅ Pattern Questions
 
-## Current Progress
+## 📚 Current Progress
 
-✅ Completed: Lecture 1 - Lecture 3
+| Lecture | Status |
+|----------|----------|
+| Lec 1 | ✅ Completed |
+| Lec 2 | ✅ Completed |
+| Lec 3 | ✅ Completed |
+| Lec 4+ | ⏳ Coming Soon |
 
 🚀 More lectures and practice problems will be added as I continue learning Java.
 
@@ -28,17 +33,38 @@ src/
         ├── Lec2
         └── Lec3
 ```
+```
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- Java
-- Maven
-- VS Code
+- ☕ Java
+- 📦 Maven
+- 💻 VS Code
+- 🌱 Git & GitHub
 
-## About
+## 🚀 Goal
 
-This repository is maintained as part of my Java learning journey using the Apna College Java course. Code is organized lecture-wise for easy reference and revision.
+This repository contains lecture-wise Java code, notes, and practice questions from the Apna College Java course.
 
-## Author
+New lectures will be added regularly as I progress through the course.
+```
+```
+
+## 📈 Progress Tracker
+
+```
+Java Course Progress
+
+██████░░░░░░░░░░░░░░░░░░ 3 / 36 Lectures
+
+---
+## 🤝 Contributions
+
+This repository is primarily for learning and revision purposes.
+
+---
+## 👨‍💻 Author
 
 **Sanjyot Dhamal**
+
+⭐ If you find this repository useful, consider giving it a star.
