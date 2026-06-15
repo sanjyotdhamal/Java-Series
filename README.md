@@ -32,27 +32,25 @@ src/
         ├── Lec1
         ├── Lec2
         └── Lec3
-```
-```
 
+```
 ## 🛠️ Tech Stack
+```text
 
 - ☕ Java
 - 📦 Maven
 - 💻 VS Code
 - 🌱 Git & GitHub
-
+  
+```
 ## 🚀 Goal
-
+```text 
 This repository contains lecture-wise Java code, notes, and practice questions from the Apna College Java course.
 
 New lectures will be added regularly as I progress through the course.
-```
-```
 
+```
 ## 📈 Progress Tracker
-
-```
 Java Course Progress
 
 ██████░░░░░░░░░░░░░░░░░░ 3 / 36 Lectures
