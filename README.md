@@ -15,7 +15,7 @@ A collection of Java programs and practice exercises based on the Apna College J
 ## 📚 Current Progress
 
 | Lecture | Status |
-|----------|-----------|
+|---------|----------|
 | Lec 1 | ✅ Completed |
 | Lec 2 | ✅ Completed |
 | Lec 3 | ✅ Completed |
