@@ -55,7 +55,7 @@ New lectures will be added regularly as I progress through the course.
 ## 📈 Progress Tracker
 Java Course Progress
 
-██████░░░░░░░░░░░░░░░░░░ 3 / 36 Lectures
+███████░░░░░░░░░░░░░░░░░ 6 / 36 Lectures
 
 ---
 ## 🤝 Contributions
