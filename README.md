@@ -15,12 +15,14 @@ A collection of Java programs and practice exercises based on the Apna College J
 ## 📚 Current Progress
 
 | Lecture | Status |
-|----------|----------|
+|----------|-----------|
 | Lec 1 | ✅ Completed |
 | Lec 2 | ✅ Completed |
 | Lec 3 | ✅ Completed |
-| Lec 4+ | ⏳ Coming Soon |
-
+| Lec 4 | ✅ Completed |
+| Lec 5 | ✅ Completed |
+| Lec 6 | ✅ Completed |
+| Lec 7+|⏳ Coming Soon|
 🚀 More lectures and practice problems will be added as I continue learning Java.
 
 ## Project Structure
