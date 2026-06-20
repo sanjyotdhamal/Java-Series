@@ -16,13 +16,15 @@ A collection of Java programs and practice exercises based on the Apna College J
 
 | Lecture | Status |
 |---------|----------|
-| Lec 1 | ✅ Completed |
-| Lec 2 | ✅ Completed |
-| Lec 3 | ✅ Completed |
-| Lec 4 | ✅ Completed |
-| Lec 5 | ✅ Completed |
-| Lec 6 | ✅ Completed |
-| Lec 7+|⏳ Coming Soon|
+| Lec 1 | ✅ Completed  |
+| Lec 2 | ✅ Completed  |
+| Lec 3 | ✅ Completed  |
+| Lec 4 | ✅ Completed  |
+| Lec 5 | ✅ Completed  |
+| Lec 6 | ✅ Completed  | 
+| Lec 7 | ✅ Completed  | 
+| Lec 8+|⏳ Coming Soon |
+
 🚀 More lectures and practice problems will be added as I continue learning Java.
 
 ## Project Structure
@@ -33,7 +35,12 @@ src/
     └── BasicJava/
         ├── Lec1
         ├── Lec2
-        └── Lec3
+        ├── Lec3
+        ├── Lec4
+        ├── Lec5
+        ├── Lec6
+        └── Lec7
+        
 
 ```
 ## 🛠️ Tech Stack
@@ -55,7 +62,7 @@ New lectures will be added regularly as I progress through the course.
 ## 📈 Progress Tracker
 Java Course Progress
 
-███████░░░░░░░░░░░░░░░░░ 6 / 36 Lectures
+███████░░░░░░░░░░░░░░░░░ 7 / 36 Lectures
 
 ---
 ## 🤝 Contributions
