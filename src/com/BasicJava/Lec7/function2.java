@@ -1,3 +1,5 @@
+//Claculate sum of A and B in a function
+
 import java.util .*;
 
 public class function2 {
@@ -14,8 +16,6 @@ public class function2 {
             
             System.out.print("B:- ");
             int B= sc.nextInt();
-            
-
 
             int sum = calculateSum(A, B);
             System.out.println("Sum of A,B is:- "+ sum);
