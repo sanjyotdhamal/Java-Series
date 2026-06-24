@@ -23,7 +23,9 @@ A collection of Java programs and practice exercises based on the Java Series.
 | Lec 5 | ✅ Completed  |
 | Lec 6 | ✅ Completed  | 
 | Lec 7 | ✅ Completed  | 
-| Lec 8+|⏳ Coming Soon |
+| Lec 8 | ✅ Completed  | 
+| Lec 9 | ✅ Completed  | 
+| Lec 10+|⏳ Coming Soon |
 
 🚀 More lectures and practice problems will be added as I continue learning Java.
 
@@ -39,7 +41,11 @@ src/
         ├── Lec4
         ├── Lec5
         ├── Lec6
-        └── Lec7
+        ├── Lec7
+        ├── Lec8
+        ├── Lec9
+        └── Lec10
+
         
 
 ```
@@ -74,7 +80,8 @@ This repository is primarily for learning and revision purposes.
 
 **Sanjyot Dhamal**
 
+---
 ⭐ If you find this repository useful, consider giving it a star.
-=======
-# Java-Series
+
+Java-Series
 
