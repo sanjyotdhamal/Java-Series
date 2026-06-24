@@ -1,6 +1,6 @@
-# Java Series - Apna College
+# Java Series 
 
-A collection of Java programs and practice exercises based on the Apna College Java course.
+A collection of Java programs and practice exercises based on the Java Series.
 
 ## 🎯 Topics Covered
 
@@ -62,7 +62,7 @@ New lectures will be added regularly as I progress through the course.
 ## 📈 Progress Tracker
 Java Course Progress
 
-███████░░░░░░░░░░░░░░░░░ 7 / 36 Lectures
+█████████░░░░░░░░░░░░░░░░ 9 / 36 Lectures
 
 ---
 ## 🤝 Contributions
@@ -76,5 +76,5 @@ This repository is primarily for learning and revision purposes.
 
 ⭐ If you find this repository useful, consider giving it a star.
 =======
-# Java-Series-ApnaCollege
+# Java-Series
 
