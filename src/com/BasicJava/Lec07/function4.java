@@ -1,0 +1,30 @@
+package src.com.BasicJava.Lec07;
+//calculate factorial of N
+
+
+import java.util.*;
+public class function4 {
+
+    public static void printFactorial(int n){
+        if(n<0){
+            System.out.print("Invalid Number");
+            return;
+        }
+        int factorial=1;
+
+        for(int i=n; i>=1; i--){
+            factorial = factorial * i;
+        }
+    System.out.print(factorial);
+    return;
+
+}
+public static void main(String[] args){
+    Scanner sc= new Scanner(System.in);
+    System.out.print("N:- ");
+    int n= sc.nextInt();
+
+}
+    printFactorial(n);
+
+}
