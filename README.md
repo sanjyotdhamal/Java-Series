@@ -25,7 +25,14 @@ A collection of Java programs and practice exercises based on the Java Series.
 | Lec 7 | ✅ Completed  | 
 | Lec 8 | ✅ Completed  | 
 | Lec 9 | ✅ Completed  | 
-| Lec 10+|⏳ Coming Soon |
+| Lec 10 | ✅ Completed  | 
+| Lec 11 | ✅ Completed  | 
+| Lec 12 | ✅ Completed  | 
+| Lec 13 | ✅ Completed  | 
+| Lec 14 | ✅ Completed  | 
+| Lec 15 | ✅ Completed  | 
+| Lec 16+ | ⏳ Coming Soon  | 
+
 
 🚀 More lectures and practice problems will be added as I continue learning Java.
 
@@ -44,7 +51,13 @@ src/
         ├── Lec7
         ├── Lec8
         ├── Lec9
-        └── Lec10
+        ├── Lec10
+        ├── Lec11
+        ├── Lec12
+        ├── Lec13
+        ├── Lec14
+        ├── Lec15
+        └── Lec16+
 
         
 
@@ -68,7 +81,7 @@ New lectures will be added regularly as I progress through the course.
 ## 📈 Progress Tracker
 Java Course Progress
 
-█████████░░░░░░░░░░░░░░░░ 9 / 36 Lectures
+████████████░░░░░░░░░░░░░░░░ 16 / 36 Lectures
 
 ---
 ## 🤝 Contributions
